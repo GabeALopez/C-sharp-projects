@@ -1,0 +1,14 @@
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\bin\Debug\net7.0\C-sharp-projects.exe
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\bin\Debug\net7.0\C-sharp-projects.deps.json
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\bin\Debug\net7.0\C-sharp-projects.runtimeconfig.json
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\bin\Debug\net7.0\C-sharp-projects.dll
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\bin\Debug\net7.0\C-sharp-projects.pdb
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.AssemblyInfoInputs.cache
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.AssemblyInfo.cs
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.csproj.CoreCompileInputs.cache
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.dll
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\refint\C-sharp-projects.dll
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.pdb
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\C-sharp-projects.genruntimeconfig.cache
+C:\Users\super\Documents\GitHub\C#Projects\C-sharp-projects\obj\Debug\net7.0\ref\C-sharp-projects.dll
